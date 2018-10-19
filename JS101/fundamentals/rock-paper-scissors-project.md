@@ -337,3 +337,4 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Raja Sekhar's Console Solution](https://github.com/IBTechRaj/RockPaperScissors) - [View in Browser](https://IBTechRaj.github.io/RockPaperScissors/) [GUI Solution] (https://github.com/IBTechRaj/RockPaperScissorsGUI) - [View in Browser] (https://IBTechRaj.github.io/RockPaperScissorsGUI/)
 - [Dhairya's Solution](https://github.com/dhairyadwivedi/rock-paper-scissors) - [View in Browser](https://dhairyadwivedi.github.io/rock-paper-scissors/)
 - [Stevie P's solution](https://voxpolly27.github.io/Rock-Paper-Scissors/)
+- [Fahad's UI Solution](https://github.com/fahadahmed5/rock-paper-scissor/) - [View in Browser](https://fahadahmed5.github.io/rock-paper-scissor/)
